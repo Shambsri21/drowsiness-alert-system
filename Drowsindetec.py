@@ -13,7 +13,7 @@ FACE_DOWNSAMPLE_RATIO = 1.5
 RESIZE_HEIGHT = 720
 
 thresh = 0.27
-modelPath = "C:\\Users\\shamb\\OneDrive\\Desktop\\Fatigue-Detection-System-Based-On-Behavioural-Characteristics-Of-Driver\\shape_predictor_70_face_landmarks.dat"
+modelPath = "C:\\Users\\shamb\\OneDrive\\Desktop\\Openc\\blinkdetect\\shape_predictor_70_face_landmarks.dat"
 sound_path = "C:\\Users\\shamb\\Downloads\\alert.mp3.mp3"
 
 detector = dlib.get_frontal_face_detector()
